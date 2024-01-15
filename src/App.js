@@ -1,5 +1,6 @@
 import Papa from "papaparse";
 import countries from "./countries.csv";
+import cocktails from "./cocktails.csv"
 import React from "react";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -147,6 +148,13 @@ class App extends React.Component {
     this.setState({ data: parsedData });
   }
 
+  // async componentDidMount() {
+  //   const response = await fetch(cocktails);
+  //   const csvText = await response.text();
+  //   const parsedData = Papa.parse(csvText, { header: true }).data;
+  //   this.setState({ data: parsedData });
+  // }
+
   render() {
     const { data, continent, search, sortOrder } = this.state;
 
@@ -218,32 +226,3 @@ class App extends React.Component {
   }
 }
 export default App;
-
-
-
-
-// import logo from './logo.svg';
-// import './App.css';
-
-// function App() {
-//   return (
-//     <div className="App">
-//       <header className="App-header">
-//         <img src={logo} className="App-logo" alt="logo" />
-//         <p>
-//           Edit <code>src/App.js</code> and save to reload.
-//         </p>
-//         <a
-//           className="App-link"
-//           href="https://reactjs.org"
-//           target="_blank"
-//           rel="noopener noreferrer"
-//         >
-//           Learn React
-//         </a>
-//       </header>
-//     </div>
-//   );
-// }
-
-// export default App;
