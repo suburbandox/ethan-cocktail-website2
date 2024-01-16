@@ -1,10 +1,10 @@
-﻿Cocktail-Name,Root-cocktail,Principal-Spirit
+﻿name,root,spirit
 ClassicOldFashioned,OldFashioned,Bourbon
 Sazerac,OldFashioned,Rye
 MintJulep,OldFashioned,Bourbon
 HotToddy,OldFashioned,Bourbon
 Stinger,OldFashioned,Cognac
-ChampagneCocktail,OldFashioned,Champagne
+Champagne,OldFashioned,Champagne
 ClassicMartini,Martini,Gin
 Vesper,Martini,Gin
 Negroni,Martini,Gin
@@ -22,7 +22,7 @@ Margarita,Sidecar,Tequila
 LastWord,Sidecar,Gin
 PaperPlane,Sidecar,Bourbon
 Cosmopolitan,Sidecar,Vodka
-CorpseReviver#2,Sidecar,Gin
+CorpseReviver2,Sidecar,Gin
 ClassicWhiskyHighball,Highball,Whiskey
 Paloma,Highball,Tequila
 GinandTonic,Highball,Gin
