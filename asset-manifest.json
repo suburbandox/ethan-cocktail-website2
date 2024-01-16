@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/suburbandox/ethan-cocktail-website2/static/css/main.5eaf7c2d.css",
+    "main.js": "/suburbandox/ethan-cocktail-website2/static/js/main.ea018aee.js",
+    "static/js/787.e8e87ea3.chunk.js": "/suburbandox/ethan-cocktail-website2/static/js/787.e8e87ea3.chunk.js",
+    "static/media/countries.csv": "/suburbandox/ethan-cocktail-website2/static/media/countries.aa4749ec834d93253461.csv",
+    "static/media/cocktails.csv": "/suburbandox/ethan-cocktail-website2/static/media/cocktails.2fee378a07e5259d20aa.csv",
+    "index.html": "/suburbandox/ethan-cocktail-website2/index.html",
+    "main.5eaf7c2d.css.map": "/suburbandox/ethan-cocktail-website2/static/css/main.5eaf7c2d.css.map",
+    "main.ea018aee.js.map": "/suburbandox/ethan-cocktail-website2/static/js/main.ea018aee.js.map",
+    "787.e8e87ea3.chunk.js.map": "/suburbandox/ethan-cocktail-website2/static/js/787.e8e87ea3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eaf7c2d.css",
+    "static/js/main.ea018aee.js"
+  ]
+}

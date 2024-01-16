@@ -1,0 +1,157 @@
+name,abbreviation,continent,subregion,area,population,capital,capital_latitude,capital_longitude,map_google
+Brazil,BR,South America,South America,8515767,212559409,Brasília,-15.79,-47.88,https://goo.gl/maps/waCKk21HeeqFzkNC9
+Norway,NO,Europe,Northern Europe,323802,5379475,Oslo,59.92,10.75,https://goo.gl/maps/htWRrphA7vNgQNdSA
+Myanmar,MM,Asia,South-Eastern Asia,676578,54409794,Naypyidaw,19.76,96.07,https://goo.gl/maps/4jrZyJkDERUfHyp26
+South Africa,ZA,Africa,Southern Africa,1221037,59308690,Pretoria,-25.7,28.22,https://goo.gl/maps/CLCZ1R8Uz1KpYhRv6
+Thailand,TH,Asia,South-Eastern Asia,513120,69799978,Bangkok,13.75,100.52,https://goo.gl/maps/qeU6uqsfW4nCCwzw9
+Republic of the Congo,CG,Africa,Middle Africa,342000,5657000,Brazzaville,-4.25,15.28,https://goo.gl/maps/Phf5dDDKdfCtuBTb6
+Palestine,PS,Asia,Western Asia,6220,4803269,Ramallah,31.9,35.2,https://goo.gl/maps/QvTbkRdmdWEoYAmt5
+Burkina Faso,BF,Africa,Western Africa,272967,20903278,Ouagadougou,12.37,-1.52,https://goo.gl/maps/rKRmpcMbFher2ozb7
+South Korea,KR,Asia,Eastern Asia,100210,51780579,Seoul,37.55,126.98,https://goo.gl/maps/7ecjaJXefjAQhxjGA
+Czechia,CZ,Europe,Central Europe,78865,10698896,Prague,50.08,14.47,https://goo.gl/maps/47dmgeXMZyhDHyQW8
+Panama,PA,North America,Central America,75417,4314768,Panama City,8.97,-79.53,https://goo.gl/maps/sEN7sKqeawa5oPNLA
+Turkmenistan,TM,Asia,Central Asia,488100,6031187,Ashgabat,37.95,58.38,https://goo.gl/maps/cgfUcaQHSWKuqeKk9
+Equatorial Guinea,GQ,Africa,Middle Africa,28051,1402985,Malabo,3.75,8.78,https://goo.gl/maps/ucWfFd8aW1FbGMva9
+Nicaragua,NI,North America,Central America,130373,6624554,Managua,12.13,-86.25,https://goo.gl/maps/P77LaEVkKJKXneRC6
+Gabon,GA,Africa,Middle Africa,267668,2225728,Libreville,0.38,9.45,https://goo.gl/maps/vyRSkqw1H1fnq4ry6
+Kazakhstan,KZ,Asia,Central Asia,2724900,18754440,Nur-Sultan,51.16,71.45,https://goo.gl/maps/8VohJGu7ShuzZYyeA
+Liberia,LR,Africa,Western Africa,111369,5057677,Monrovia,6.3,-10.8,https://goo.gl/maps/4VsHsc2oeGeRL3wg6
+Serbia,RS,Europe,Southeast Europe,88361,6908224,Belgrade,44.83,20.5,https://goo.gl/maps/2Aqof7aV2Naq8YEK8
+Tunisia,TN,Africa,Northern Africa,163610,11818618,Tunis,36.8,10.18,https://goo.gl/maps/KgUmpZdUuNRaougs8
+Eritrea,ER,Africa,Eastern Africa,117600,5352000,Asmara,15.33,38.93,https://goo.gl/maps/HRyqUpnPwwG6jY5j6
+China,CN,Asia,Eastern Asia,9706961,1402112000,Beijing,39.92,116.38,https://goo.gl/maps/p9qC6vgiFRRXzvGi7
+Afghanistan,AF,Asia,Southern Asia,652230,40218234,Kabul,34.52,69.18,https://goo.gl/maps/BXBGw7yUUFknCfva9
+Gambia,GM,Africa,Western Africa,10689,2416664,Banjul,13.45,-16.57,https://goo.gl/maps/bbGBCxxtfD2A9Z4m6
+Pakistan,PK,Asia,Southern Asia,881912,220892331,Islamabad,33.68,73.05,https://goo.gl/maps/5LYujdfR5yLUXoERA
+Lebanon,LB,Asia,Western Asia,10452,6825442,Beirut,33.87,35.5,https://goo.gl/maps/Sz5VCU8UFBqMyTdc9
+Jordan,JO,Asia,Western Asia,89342,10203140,Amman,31.95,35.93,https://goo.gl/maps/ko1dzSDKg8Gsi9A98
+Croatia,HR,Europe,Southeast Europe,56594,4047200,Zagreb,45.8,16,https://goo.gl/maps/qSG6xTKUmrYpwmGQ6
+Philippines,PH,Asia,South-Eastern Asia,342353,109581085,Manila,14.6,120.97,https://goo.gl/maps/k8T2fb5VMUfsWFX6A
+Greece,GR,Europe,Southern Europe,131990,10715549,Athens,37.98,23.73,https://goo.gl/maps/LHGcAvuRyD2iKECC6
+Costa Rica,CR,North America,Central America,51100,5094114,San José,9.93,-84.09,https://goo.gl/maps/RFiwytjvNrpfKN7k6
+Singapore,SG,Asia,South-Eastern Asia,710,5685807,Singapore,1.28,103.85,https://goo.gl/maps/QbQt9Y9b5KFzsahV6
+Burundi,BI,Africa,Eastern Africa,27834,11890781,Gitega,-3.43,29.93,https://goo.gl/maps/RXPWoRrB9tfrJpUG7
+Lithuania,LT,Europe,Northern Europe,65300,2794700,Vilnius,54.68,25.32,https://goo.gl/maps/dd1s9rrLjrK2G8yY6
+Vietnam,VN,Asia,South-Eastern Asia,331212,97338583,Hanoi,21.03,105.85,https://goo.gl/maps/PCpVt9WzdJ9A9nEZ9
+Ecuador,EC,South America,South America,276841,17643060,Quito,-0.22,-78.5,https://goo.gl/maps/TbX8hUW4gcbRPZiK7
+Libya,LY,Africa,Northern Africa,1759540,6871287,Tripoli,32.88,13.17,https://goo.gl/maps/eLgGnaQWcJEdYRMy5
+Ethiopia,ET,Africa,Eastern Africa,1104300,114963583,Addis Ababa,9.03,38.7,https://goo.gl/maps/2Q4hQWCbhuZLj3fG6
+Togo,TG,Africa,Western Africa,56785,8278737,Lomé,6.14,1.21,https://goo.gl/maps/jzAa9feXuXPrKVb89
+Ukraine,UA,Europe,Eastern Europe,603500,44134693,Kyiv,50.43,30.52,https://goo.gl/maps/DvgJMiPJ7aozKFZv7
+Saudi Arabia,SA,Asia,Western Asia,2149690,34813867,Riyadh,24.65,46.7,https://goo.gl/maps/5PSjvdJ1AyaLFRrG9
+Laos,LA,Asia,South-Eastern Asia,236800,7275556,Vientiane,17.97,102.6,https://goo.gl/maps/F3asVB7sRKgSnwbE7
+Angola,AO,Africa,Middle Africa,1246700,32866268,Luanda,-8.83,13.22,https://goo.gl/maps/q42Qbf1BmQL3fuZg9
+Taiwan,TW,Asia,Eastern Asia,36193,23503349,Taipei,25.03,121.52,https://goo.gl/maps/HgMKFQjNadF3Wa6B6
+Papua New Guinea,PG,Oceania,Melanesia,462840,8947027,Port Moresby,-9.45,147.18,https://goo.gl/maps/ChGmzZBjZ3vnBwR2A
+Yemen,YE,Asia,Western Asia,527968,29825968,Sana'a,15.37,44.19,https://goo.gl/maps/WCmE76HKcLideQQw7
+Bulgaria,BG,Europe,Southeast Europe,110879,6927288,Sofia,42.68,23.32,https://goo.gl/maps/F5uAhDGWzc3BrHfm9
+Iraq,IQ,Asia,Western Asia,438317,40222503,Baghdad,33.33,44.4,https://goo.gl/maps/iL8Bmy1sUCW9fUk18
+Portugal,PT,Europe,Southern Europe,92090,10305564,Lisbon,38.72,-9.13,https://goo.gl/maps/BaTBSyc4GWMmbAKB8
+Cambodia,KH,Asia,South-Eastern Asia,181035,16718971,Phnom Penh,11.55,104.92,https://goo.gl/maps/nztQtFSrUXZymJaW8
+Haiti,HT,North America,Caribbean,27750,11402533,Port-au-Prince,18.53,-72.33,https://goo.gl/maps/9o13xtjuUdqFnHbn9
+Paraguay,PY,South America,South America,406752,7132530,Asunción,-25.28,-57.57,https://goo.gl/maps/JtnqG73WJn1Gx6mz6
+India,IN,Asia,Southern Asia,3287590,1380004385,New Delhi,28.6,77.2,https://goo.gl/maps/WSk3fLwG4vtPQetp7
+Malawi,MW,Africa,Eastern Africa,118484,19129955,Lilongwe,-13.97,33.78,https://goo.gl/maps/mc6z83pW9m98X2Ef6
+Uruguay,UY,South America,South America,181034,3473727,Montevideo,-34.85,-56.17,https://goo.gl/maps/tiQ9Baekb1jQtDSD9
+Sudan,SD,Africa,Northern Africa,1886068,43849269,Khartoum,15.6,32.53,https://goo.gl/maps/bNW7YUJCaqR8zcXn7
+Botswana,BW,Africa,Southern Africa,582000,2351625,Gaborone,-24.63,25.9,https://goo.gl/maps/E364KeLy6N4JwxwQ8
+United Arab Emirates,AE,Asia,Western Asia,83600,9890400,Abu Dhabi,24.47,54.37,https://goo.gl/maps/AZZTDA6GzVAnKMVd8
+Uganda,UG,Africa,Eastern Africa,241550,45741000,Kampala,0.32,32.55,https://goo.gl/maps/Y7812hFiGa8LD9N68
+Zimbabwe,ZW,Africa,Southern Africa,390757,14862927,Harare,-17.82,31.03,https://goo.gl/maps/M26BqdwQctqxXS65A
+Trinidad and Tobago,TT,North America,Caribbean,5130,1399491,Port of Spain,10.65,-61.52,https://goo.gl/maps/NrRfDEWoG8FGZqWY7
+Tajikistan,TJ,Asia,Central Asia,143100,9537642,Dushanbe,38.55,68.77,https://goo.gl/maps/8rQgW88jEXijhVb58
+Honduras,HN,North America,Central America,112492,9904608,Tegucigalpa,14.1,-87.22,https://goo.gl/maps/BbeJK8Sk2VkMHbdF8
+Nepal,NP,Asia,Southern Asia,147181,29136808,Kathmandu,27.72,85.32,https://goo.gl/maps/UMj2zpbQp7B5c3yT7
+Spain,ES,Europe,Southern Europe,505992,47351567,Madrid,40.4,-3.68,https://goo.gl/maps/138JaXW8EZzRVitY9
+United Kingdom,GB,Europe,Northern Europe,242900,67215293,London,51.5,-0.08,https://goo.gl/maps/FoDtc3UKMkFsXAjHA
+Madagascar,MG,Africa,Eastern Africa,587041,27691019,Antananarivo,-18.92,47.52,https://goo.gl/maps/AHQh2ABBaFW6Ngj26
+Ivory Coast,CI,Africa,Western Africa,322463,26378275,Yamoussoukro,6.82,-5.27,https://goo.gl/maps/wKsmN7f5qAeNtGjP6
+Tanzania,TZ,Africa,Eastern Africa,945087,59734213,Dodoma,-6.16,35.75,https://goo.gl/maps/NWYMqZYXte4zGZ2Q8
+Egypt,EG,Africa,Northern Africa,1002450,102334403,Cairo,30.05,31.25,https://goo.gl/maps/uoDRhXbsqjG6L7VG7
+Denmark,DK,Europe,Northern Europe,43094,5831404,Copenhagen,55.67,12.58,https://goo.gl/maps/UddGPN7hAyrtpFiT6
+Lesotho,LS,Africa,Southern Africa,30355,2142252,Maseru,-29.32,27.48,https://goo.gl/maps/H8gJi5mL4Cmd1SF28
+Italy,IT,Europe,Southern Europe,301336,59554023,Rome,41.9,12.48,https://goo.gl/maps/8M1K27TDj7StTRTq8
+Finland,FI,Europe,Northern Europe,338424,5530719,Helsinki,60.17,24.93,https://goo.gl/maps/HjgWDCNKRAYHrkMn8
+France,FR,Europe,Western Europe,551695,67391582,Paris,48.87,2.33,https://goo.gl/maps/g7QxxSFsWyTPKuzd7
+Kuwait,KW,Asia,Western Asia,17818,4270563,Kuwait City,29.37,47.97,https://goo.gl/maps/aqr3aNQjS1BAvksJ7
+Kosovo,XK,Europe,Southeast Europe,10908,1775378,Pristina,42.67,21.17,https://goo.gl/maps/CSC4Yc8SWPgburuD9
+Cuba,CU,North America,Caribbean,109884,11326616,Havana,23.12,-82.35,https://goo.gl/maps/1dDw1QfZspfMUTm99
+Cameroon,CM,Africa,Middle Africa,475442,26545864,Yaoundé,3.85,11.5,https://goo.gl/maps/JqiipHgFboG3rBJh9
+Peru,PE,South America,South America,1285216,32971846,Lima,-12.05,-77.05,https://goo.gl/maps/uDWEUaXNcZTng1fP6
+Colombia,CO,South America,South America,1141748,50882884,Bogotá,4.71,-74.07,https://goo.gl/maps/RdwTG8e7gPwS62oR6
+Bangladesh,BD,Asia,Southern Asia,147570,164689383,Dhaka,23.72,90.4,https://goo.gl/maps/op6gmLbHcvv6rLhH6
+Chad,TD,Africa,Middle Africa,1284000,16425859,N'Djamena,12.1,15.03,https://goo.gl/maps/ziUdAZ8skuNfx5Hx7
+Japan,JP,Asia,Eastern Asia,377930,125836021,Tokyo,35.68,139.75,https://goo.gl/maps/NGTLSCSrA8bMrvnX9
+Hungary,HU,Europe,Central Europe,93028,9749763,Budapest,47.5,19.08,https://goo.gl/maps/9gfPupm5bffixiFJ6
+Poland,PL,Europe,Central Europe,312679,37950802,Warsaw,52.25,21,https://goo.gl/maps/gY9Xw4Sf4415P4949
+Latvia,LV,Europe,Northern Europe,64559,1901548,Riga,56.95,24.1,https://goo.gl/maps/iQpUkH7ghq31ZtXe9
+Belarus,BY,Europe,Eastern Europe,207600,9398861,Minsk,53.9,27.57,https://goo.gl/maps/PJUDU3EBPSszCQcu6
+Indonesia,ID,Asia,South-Eastern Asia,1904569,273523621,Jakarta,-6.17,106.82,https://goo.gl/maps/9gfPupm5bffixiFJ6
+Switzerland,CH,Europe,Western Europe,41284,8654622,Bern,46.92,7.47,https://goo.gl/maps/uVuZcXaxSx5jLyEC9
+Kyrgyzstan,KG,Asia,Central Asia,199951,6591600,Bishkek,42.87,74.6,https://goo.gl/maps/SKG8BSMMQVvxkRkB7
+Oman,OM,Asia,Western Asia,309500,5106622,Muscat,23.62,58.58,https://goo.gl/maps/L2BoXoAwDDwWecnw5
+Algeria,DZ,Africa,Northern Africa,2381741,44700000,Algiers,36.75,3.05,https://goo.gl/maps/RsAyAfyaiNVb8DpW8
+Armenia,AM,Asia,Western Asia,29743,2963234,Yerevan,40.17,44.5,https://goo.gl/maps/azWUtK9bUQYEyccbA
+Mauritania,MR,Africa,Western Africa,1030700,4649660,Nouakchott,18.07,-15.97,https://goo.gl/maps/im2MmQ5jFjzxWBks5
+Turkey,TR,Asia,Western Asia,783562,84339067,Ankara,39.93,32.87,https://goo.gl/maps/dXFFraiUDfcB6Quk6
+Bolivia,BO,South America,South America,1098581,11673029,Sucre,-19.02,-65.26,https://goo.gl/maps/9DfnyfbxNM2g5U9b9
+Venezuela,VE,South America,South America,916445,28435943,Caracas,10.48,-66.87,https://goo.gl/maps/KLCwDN8sec7z2kse9
+Bosnia and Herzegovina,BA,Europe,Southeast Europe,51209,3280815,Sarajevo,43.87,18.42,https://www.google.com/maps/place/Bosnia+and+Herzegovina
+Guinea,GN,Africa,Western Africa,245857,13132792,Conakry,9.5,-13.7,https://goo.gl/maps/8J5oM5sA4Ayr1ZYGA
+Somalia,SO,Africa,Eastern Africa,637657,15893219,Mogadishu,2.07,45.33,https://goo.gl/maps/8of8q7D1a8p7R6Fc9
+Moldova,MD,Europe,Eastern Europe,33846,2617820,Chi?in?u,47.01,28.9,https://goo.gl/maps/JjmyUuULujnDeFPf7
+Rwanda,RW,Africa,Eastern Africa,26338,12952209,Kigali,-1.95,30.05,https://goo.gl/maps/j5xb5r7CLqjYbyP86
+Ireland,IE,Europe,Northern Europe,70273,4994724,Dublin,53.32,-6.23,https://goo.gl/maps/hxd1BKxgpchStzQC6
+El Salvador,SV,North America,Central America,21041,6486201,San Salvador,13.7,-89.2,https://goo.gl/maps/cZnCEi5sEMQtKKcB7
+Guinea-Bissau,GW,Africa,Western Africa,36125,1967998,Bissau,11.85,-15.58,https://goo.gl/maps/5Wyaz17miUc1zLc67
+Nigeria,NG,Africa,Western Africa,923768,206139587,Abuja,9.08,7.53,https://goo.gl/maps/LTn417qWwBPFszuV9
+Namibia,NA,Africa,Southern Africa,825615,2540916,Windhoek,-22.57,17.08,https://goo.gl/maps/oR1i8BFEYX3EY83WA
+Uzbekistan,UZ,Asia,Central Asia,447400,34232050,Tashkent,41.32,69.25,https://goo.gl/maps/AJpo6MjMx23qSWCz8
+North Korea,KP,Asia,Eastern Asia,120538,25778815,Pyongyang,39.02,125.75,https://goo.gl/maps/9q5T2DMeH5JL7Tky6
+Kenya,KE,Africa,Eastern Africa,580367,53771300,Nairobi,-1.28,36.82,https://goo.gl/maps/Ni9M7wcCxf8bJHLX8
+Estonia,EE,Europe,Northern Europe,45227,1331057,Tallinn,59.43,24.72,https://goo.gl/maps/6SsynwGUodL1sDvq8
+United States,US,North America,North America,9372610,329484123,"Washington D.C.",38.89,-77.05,https://goo.gl/maps/e8M246zY4BSjkjAv6
+Russia,RU,Europe,Eastern Europe,17098242,144104080,Moscow,55.75,37.6,https://goo.gl/maps/4F4PpDhGJgVvLby57
+Iran,IR,Asia,Southern Asia,1648195,83992953,Tehran,35.7,51.42,https://goo.gl/maps/dMgEGuacBPGYQnjY7
+Bahrain,BH,Asia,Western Asia,765,1701583,Manama,26.23,50.57,https://goo.gl/maps/5Zue99Zc6vFBHxzJ7
+Canada,CA,North America,North America,9984670,38005238,Ottawa,45.42,-75.7,https://goo.gl/maps/jmEVLugreeqiZXxbA
+North Macedonia,MK,Europe,Southeast Europe,25713,2077132,Skopje,42,21.43,https://goo.gl/maps/55Q8MEnF6ACdu3q79
+Ghana,GH,Africa,Western Africa,238533,31072945,Accra,5.55,-0.22,https://goo.gl/maps/Avy5RSmdsXFBaiXq8
+Netherlands,NL,Europe,Western Europe,41850,16655799,Amsterdam,52.35,4.92,https://goo.gl/maps/Hv6zQswGhFxoVVBm6
+Mozambique,MZ,Africa,Eastern Africa,801590,31255435,Maputo,-25.95,32.58,https://goo.gl/maps/xCLcY9fzU6x4Pueu5
+Qatar,QA,Asia,Western Asia,11586,2881060,Doha,25.28,51.53,https://goo.gl/maps/ZV76Y49z7LLUZ2KQ6
+Zambia,ZM,Africa,Eastern Africa,752612,18383956,Lusaka,-15.42,28.28,https://goo.gl/maps/mweBcqvW8TppZW6q9
+Syria,SY,Asia,Western Asia,185180,17500657,Damascus,33.5,36.3,https://goo.gl/maps/Xe3VnFbwdb4nv2SM9
+Mongolia,MN,Asia,Eastern Asia,1564110,3278292,Ulan Bator,47.92,106.91,https://goo.gl/maps/A1X7bMCKThBDNjzH6
+Australia,AU,Oceania,Australia and New Zealand,7692024,25687041,Canberra,-35.27,149.13,https://goo.gl/maps/DcjaDa7UbhnZTndH6
+Israel,IL,Asia,Western Asia,20770,9216900,Jerusalem,31.77,35.23,https://goo.gl/maps/6UY1AH8XeafVwdC97
+Mexico,MX,North America,North America,1964375,128932753,Mexico City,19.43,-99.13,https://goo.gl/maps/s5g7imNPMDEePxzbA
+Austria,AT,Europe,Central Europe,83871,8917205,Vienna,48.2,16.37,https://goo.gl/maps/pCWpWQhznHyRzQcu9
+Morocco,MA,Africa,Northern Africa,446550,36910558,Rabat,34.02,-6.82,https://goo.gl/maps/6oMv3dyBZg3iaXQ5A
+Niger,NE,Africa,Western Africa,1267000,24206636,Niamey,13.52,2.12,https://goo.gl/maps/VKNU2TLsZcgxM49c8
+Sweden,SE,Europe,Northern Europe,450295,10353442,Stockholm,59.33,18.05,https://goo.gl/maps/iqygE491ADVgnBW39
+Slovenia,SI,Europe,Central Europe,20273,2100126,Ljubljana,46.05,14.52,https://goo.gl/maps/7zgFmswcCJh5L5D49
+Mali,ML,Africa,Western Africa,1240192,20250834,Bamako,12.65,-8,https://goo.gl/maps/u9mYJkCB19wyuzh27
+Puerto Rico,PR,North America,Caribbean,8870,3194034,San Juan,18.47,-66.12,https://goo.gl/maps/sygfDbtwn389wu8x5
+Malaysia,MY,Asia,South-Eastern Asia,330803,32365998,Kuala Lumpur,3.17,101.7,https://goo.gl/maps/qrY1PNeUXGyXDcPy6
+Romania,RO,Europe,Southeast Europe,238391,19286123,Bucharest,44.43,26.1,https://goo.gl/maps/845hAgCf1mDkN3vr7
+Chile,CL,South America,South America,756102,19116209,Santiago,-33.45,-70.67,https://goo.gl/maps/XboxyNHh2fAjCPNn9
+New Zealand,NZ,Oceania,Australia and New Zealand,270467,5084300,Wellington,-41.3,174.78,https://goo.gl/maps/xXiDQo65dwdpw9iu8
+Senegal,SN,Africa,Western Africa,196722,16743930,Dakar,14.73,-17.63,https://goo.gl/maps/o5f1uD5nyihCL3HCA
+Benin,BJ,Africa,Western Africa,112622,12123198,Porto-Novo,6.48,2.62,https://goo.gl/maps/uMw1BsHEXQYgVFFu6
+Sri Lanka,LK,Asia,Southern Asia,65610,21919000,Sri Jayawardenepura Kotte,6.89,79.9,https://goo.gl/maps/VkPHoeFSfgzRQCDv8
+Dominican Republic,DO,North America,Caribbean,48671,10847904,Santo Domingo,18.47,-69.9,https://goo.gl/maps/soxooTHxEeiAbn3UA
+Azerbaijan,AZ,Asia,Western Asia,86600,10110116,Baku,40.38,49.87,https://goo.gl/maps/az3Zz7ar2aoB9AUc6
+Jamaica,JM,North America,Caribbean,10991,2961161,Kingston,17.99702,-76.79358,https://goo.gl/maps/Z8mQ6jxnRQKFwJy9A
+DR Congo,CD,Africa,Middle Africa,2344858,108407721,Kinshasa,-4.32,15.3,https://goo.gl/maps/KfhNVn6VqdZXWu8n9
+Germany,DE,Europe,Western Europe,357114,83240525,Berlin,52.52,13.4,https://goo.gl/maps/mD9FBMq1nvXUBrkv6
+Georgia,GE,Asia,Western Asia,69700,3714000,Tbilisi,41.68,44.83,https://goo.gl/maps/bvCaGBePR1ZEDK5cA
+Argentina,AR,South America,South America,2780400,45376763,Buenos Aires,-34.58,-58.67,https://goo.gl/maps/Z9DXNxhf2o93kvyc6
+Hong Kong,HK,Asia,Eastern Asia,1104,7500700,City of Victoria,48.41,-123.33,https://goo.gl/maps/1sEnNmT47ffrC8MU8
+Belgium,BE,Europe,Western Europe,30528,11555997,Brussels,50.83,4.33,https://goo.gl/maps/UQQzat85TCtPRXAL8
+Albania,AL,Europe,Southeast Europe,28748,2837743,Tirana,41.32,19.82,https://goo.gl/maps/BzN9cTuj68ZA8SyZ8
+Guatemala,GT,North America,Central America,108889,16858333,Guatemala City,14.62,-90.52,https://goo.gl/maps/JoRAbem4Hxb9FYbVA
+Slovakia,SK,Europe,Central Europe,49037,5458827,Bratislava,48.15,17.12,https://goo.gl/maps/uNSH2wW4bLoZVYJj7
+Central African Republic,CF,Africa,Middle Africa,622984,4829764,Bangui,4.37,18.58,https://goo.gl/maps/51V8dsi2rGYC9n3c9
+Sierra Leone,SL,Africa,Western Africa,71740,7976985,Freetown,8.48,-13.23,https://goo.gl/maps/jhacar85oq9QaeKB7
+South Sudan,SS,Africa,Middle Africa,619745,11193729,Juba,4.85,31.62,https://goo.gl/maps/Zm1AYCXb9HSNF1P27
