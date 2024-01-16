@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/suburbandox/ethan-cocktail-website2/static/css/main.5eaf7c2d.css",
-    "main.js": "/suburbandox/ethan-cocktail-website2/static/js/main.c0fdde9f.js",
-    "static/js/787.e8e87ea3.chunk.js": "/suburbandox/ethan-cocktail-website2/static/js/787.e8e87ea3.chunk.js",
-    "static/media/countries.csv": "/suburbandox/ethan-cocktail-website2/static/media/countries.aa4749ec834d93253461.csv",
-    "static/media/cocktails.csv": "/suburbandox/ethan-cocktail-website2/static/media/cocktails.2fee378a07e5259d20aa.csv",
-    "index.html": "/suburbandox/ethan-cocktail-website2/index.html",
-    "main.5eaf7c2d.css.map": "/suburbandox/ethan-cocktail-website2/static/css/main.5eaf7c2d.css.map",
-    "main.c0fdde9f.js.map": "/suburbandox/ethan-cocktail-website2/static/js/main.c0fdde9f.js.map",
-    "787.e8e87ea3.chunk.js.map": "/suburbandox/ethan-cocktail-website2/static/js/787.e8e87ea3.chunk.js.map"
+    "main.css": "/ethan-cocktail-website2/static/css/main.5eaf7c2d.css",
+    "main.js": "/ethan-cocktail-website2/static/js/main.6f49f6c9.js",
+    "static/js/787.e8e87ea3.chunk.js": "/ethan-cocktail-website2/static/js/787.e8e87ea3.chunk.js",
+    "static/media/countries.csv": "/ethan-cocktail-website2/static/media/countries.aa4749ec834d93253461.csv",
+    "static/media/cocktails.csv": "/ethan-cocktail-website2/static/media/cocktails.2fee378a07e5259d20aa.csv",
+    "index.html": "/ethan-cocktail-website2/index.html",
+    "main.5eaf7c2d.css.map": "/ethan-cocktail-website2/static/css/main.5eaf7c2d.css.map",
+    "main.6f49f6c9.js.map": "/ethan-cocktail-website2/static/js/main.6f49f6c9.js.map",
+    "787.e8e87ea3.chunk.js.map": "/ethan-cocktail-website2/static/js/787.e8e87ea3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5eaf7c2d.css",
-    "static/js/main.c0fdde9f.js"
+    "static/js/main.6f49f6c9.js"
   ]
 }
