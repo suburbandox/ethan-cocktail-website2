@@ -71,7 +71,7 @@ function lower(w) {
 function Cocktail(props){
   const [show, setShow] = useState(false);
   const [data, setData] = useState(null);
-    const cocktail = props.cocktail
+  const cocktail = props.cocktail
   const handleClose = () => {
     setShow(false);
   };
