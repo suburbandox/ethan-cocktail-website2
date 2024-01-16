@@ -116,6 +116,8 @@ class App extends React.Component {
     this.state = {
       data: null,
       search: "",
+      root: "",
+      spirit: "",
     };
   }
 
