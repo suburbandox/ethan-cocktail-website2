@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ethan-cocktail-website/static/css/main.5eaf7c2d.css",
-    "main.js": "/ethan-cocktail-website/static/js/main.2d8f8296.js",
-    "static/js/787.e8e87ea3.chunk.js": "/ethan-cocktail-website/static/js/787.e8e87ea3.chunk.js",
-    "static/media/countries.csv": "/ethan-cocktail-website/static/media/countries.aa4749ec834d93253461.csv",
-    "static/media/cocktails.csv": "/ethan-cocktail-website/static/media/cocktails.2fee378a07e5259d20aa.csv",
-    "index.html": "/ethan-cocktail-website/index.html",
-    "main.5eaf7c2d.css.map": "/ethan-cocktail-website/static/css/main.5eaf7c2d.css.map",
-    "main.2d8f8296.js.map": "/ethan-cocktail-website/static/js/main.2d8f8296.js.map",
-    "787.e8e87ea3.chunk.js.map": "/ethan-cocktail-website/static/js/787.e8e87ea3.chunk.js.map"
+    "main.css": "/ethan-cocktail-website2/static/css/main.5eaf7c2d.css",
+    "main.js": "/ethan-cocktail-website2/static/js/main.f74d4d2f.js",
+    "static/js/787.e8e87ea3.chunk.js": "/ethan-cocktail-website2/static/js/787.e8e87ea3.chunk.js",
+    "static/media/countries.csv": "/ethan-cocktail-website2/static/media/countries.aa4749ec834d93253461.csv",
+    "static/media/cocktails.csv": "/ethan-cocktail-website2/static/media/cocktails.2fee378a07e5259d20aa.csv",
+    "index.html": "/ethan-cocktail-website2/index.html",
+    "main.5eaf7c2d.css.map": "/ethan-cocktail-website2/static/css/main.5eaf7c2d.css.map",
+    "main.f74d4d2f.js.map": "/ethan-cocktail-website2/static/js/main.f74d4d2f.js.map",
+    "787.e8e87ea3.chunk.js.map": "/ethan-cocktail-website2/static/js/787.e8e87ea3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5eaf7c2d.css",
-    "static/js/main.2d8f8296.js"
+    "static/js/main.f74d4d2f.js"
   ]
 }
