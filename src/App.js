@@ -64,11 +64,14 @@ function filterSearch(query, cocktail) {
     return cocktail
   }
 }
-
+function lower(w) {
+  return w.toLowerCase();
+}
 
 function Cocktail(props){
   const [show, setShow] = useState(false);
   const [data, setData] = useState(null);
+    const cocktail = props.cocktail
   const handleClose = () => {
     setShow(false);
   };
@@ -77,7 +80,9 @@ function Cocktail(props){
     const fetchData = await fetchModalData(`text/${cocktail.name}.txt`);
     setData(fetchData);
   };
-  const cocktail = props.cocktail
+
+  const l = lower(cocktail.name)
+  const n = cocktail.name + ".jpg"
   return(
     <div 
       key={cocktail.name} 
@@ -147,7 +152,7 @@ class App extends React.Component {
     // const cocktails = sortedCountries.map((country) => {
     //   return <Country country={country} key={country.name} />;
     // });
-    // console.log(data)
+     //console.log(data)
     // console.log(this.props)
     const cocktails = filteredCocktails.map((cocktail)=>{
       return<Cocktail cocktail={cocktail} key={cocktail.name} />
