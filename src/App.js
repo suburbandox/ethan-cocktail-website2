@@ -82,7 +82,7 @@ function Cocktail(props){
   };
 
   const l = lower(cocktail.name)
-  const n = cocktail.name + ".jpg"
+  const n = l + ".jpg"
   return(
     <div 
       key={cocktail.name} 
@@ -93,7 +93,7 @@ function Cocktail(props){
          <Card style={{ width: "18rem" }}>
         <Card.Img
           variant="top"
-          src={`imo/${cocktail.name}.jpg`}
+          src={`imo/${l}.jpg`}
           alt={cocktail.name}
         />
         <Card.Body>
