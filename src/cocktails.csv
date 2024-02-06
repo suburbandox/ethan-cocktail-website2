@@ -1,4 +1,4 @@
-﻿name,root,spirit
+name,root,spirit
 ClassicOldFashioned,OldFashioned,Bourbon
 Sazerac,OldFashioned,Rye
 MintJulep,OldFashioned,Bourbon
@@ -35,3 +35,6 @@ EggNog,Flip,Rum
 WhiteRussian,Flip,Vodka
 IrishCoffee,Flip,Whiskey
 PinaColada,Flip,Rum
+BustedPipe,Martini,Bourbon
+PiedmountSour,Daiquiri,Bourbon
+SmokyMargarita,Sidecar,Mezcal

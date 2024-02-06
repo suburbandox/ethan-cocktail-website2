@@ -1,5 +1,4 @@
 import Papa from "papaparse";
-import countries from "./countries.csv";
 import cocktails from "./cocktails.csv"
 import React from "react";
 import "./App.css";
@@ -55,6 +54,8 @@ function filterCocktailSpirit(spirit, cocktail) {
     return cocktail.spirit === "Sherry";
   } else if (spirit === "Whiskey") {
     return cocktail.spirit === "Whiskey";
+  } else if (spirit === "Mezcal") {
+    return cocktail.spirit === "Mezcal";
   } else {
     return true;
   }
@@ -75,14 +76,13 @@ function Cocktail(props){
   const handleClose = () => {
     setShow(false);
   };
+  const l = lower(cocktail.name)
   const handleShow = async () => {
     setShow(true);
-    const fetchData = await fetchModalData(`text/${cocktail.name}.txt`);
+    const fetchData = await fetchModalData(`text/${l}.txt`);
     setData(fetchData);
   };
 
-  const l = lower(cocktail.name)
-  const n = l + ".jpg"
   return(
     <div 
       key={cocktail.name} 
@@ -203,6 +203,7 @@ class App extends React.Component {
             <option value="Vodka">Vodka</option>
             <option value="Sherry">Sherry</option>
             <option value="Whiskey">Whiskey</option>
+            <option value="Mezcal">Mezcal</option>
           </select>
           <label htmlFor="search">search</label>
           <input
